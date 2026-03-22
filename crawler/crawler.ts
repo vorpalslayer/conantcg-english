@@ -3,9 +3,7 @@ import * as fs from "fs";
 import {Readable} from "stream";
 import config from "./config";
 
-
-const url = '[INSERT FILE HERE]'
-
+const url = 'https://www.takaratomy.co.jp/products/conan-cardgame/cardlist'
 
 const responseToReadable = (response: Response) => {
     const reader = response.body.getReader();
