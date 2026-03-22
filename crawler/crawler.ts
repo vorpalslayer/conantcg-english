@@ -3,7 +3,9 @@ import * as fs from "fs";
 import {Readable} from "stream";
 import config from "./config";
 
-const url = 'https://www.takaratomy.co.jp/products/conan-cardgame/cardlist'
+
+const url = 'file:///C:/Users/karen/OneDrive/conantcgsite/crawler/3-22/extract1.htm'
+
 
 const responseToReadable = (response: Response) => {
     const reader = response.body.getReader();
@@ -46,11 +48,12 @@ for (const cardImage of result.querySelectorAll('#cardList img')) {
     }
     cards[data.card_num].color = colorList
 
-    const imagePath = config.dataDir + '/images/cards/' + data.card_num + '.ja.jpg'
-    if (!fs.existsSync(imagePath)) {
+/*    const imagePath = config.dataDir + '/images/cards/' + data.card_num + '.ja.jpg'
+   if (!fs.existsSync(imagePath)) {
         const res = await fetch(cardImage.getAttribute('src'))
-        responseToReadable(res).pipe(fs.createWriteStream(imagePath))
+                responseToReadable(res).pipe(fs.createWriteStream(imagePath))
     }
+*/
 }
 
 const targetPath = config.dataDir + '/cards_ja.json'
