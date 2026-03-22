@@ -4,7 +4,7 @@ import {Readable} from "stream";
 import config from "./config";
 
 
-const url = 'file:///C:/Users/karen/OneDrive/conantcgsite/crawler/3-22/extract1.htm'
+const url = '[INSERT FILE HERE]'
 
 
 const responseToReadable = (response: Response) => {
