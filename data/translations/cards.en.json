@@ -1205,7 +1205,7 @@
   "cards.0480.feature": "[During Opponent's Turn][When Removed] Look at the top 1 card of your deck. Choose up to 1 Character with the \"Mori Detective Agency\" trait from among them to reveal and add to hand, then return the remaining cards to the bottom of deck.",
   "cards.0480.cut_in": "AP+1000",
   "cards.0481.title": "Subaru Okiya",
-  "cards.0481.feature": "Choose up to 1 Character and give it {Bullet}.",
+  "cards.0481.feature": "[When Played] Choose up to 1 Character and give it {Bullet}.",
   "cards.0481.hirameki": "Add this card to your hand.",
   "cards.0482.title": "Wataru Date",
   "cards.0482.feature": "When this Character's action ends, you may send this Character from the Scene to the bottom of your deck. If you do, draw 1 card and play up to 1 level 6 or lower Character with the \"Police\" trait from your hand in Sleep state.",
