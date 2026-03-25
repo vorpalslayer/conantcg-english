@@ -1459,7 +1459,7 @@
   "cards.0576.title": "Jodie Starling",
   "cards.0576.feature": "[Resolution Phase] At the end of Opponent's Scene's turn, if there are 2 or less characters in Your Scene, Opponent removes 1 card from his hand.",
   "cards.0577.title": "Jodie Saintemillion",
-  "cards.0577.feature": "[During Opponent's Scene][When Removed From Scene] Reveal the cards in your deck one by one from the top until there is a level 4 or lower card named \"Jodie Starling\" and put it into play. Move the remaining revealed cards to the bottom of the deck and shuffle the deck.",
+  "cards.0577.feature": "[During Opponent's Turn][When Removed From Scene] Reveal the cards in your deck one by one from the top until there is a level 4 or lower card named \"Jodie Starling\" and put it into play. Move the remaining revealed cards to the bottom of the deck and shuffle the deck.",
   "cards.0578.title": "Masumi Sera",
   "cards.0578.feature": "[When Played] Look at the top 4 cards of your deck. Reveal up to one character of \"Akai Family\" or \"Detective\" trait from among them, add it to your hand, and move the rest to the bottom of your deck in any order you wish. If a card is added to the hand, remove one card from the hand.",
   "cards.0578.hirameki": "Draw a card.",
@@ -1614,6 +1614,13 @@
   "cards.P074.title": "Atsushi Miyano",
   "cards.P074.feature": "[Resolution Phase][Case Closed][Sleep]: If the number of your Evidence is equal to or greater than the Case Level of your Case card, you win the game.\n[Assist][Sleep]: Move this card into the FILE area. If you have 7 or more cards in your FILE area, your Case enters the Resolution Phase.",
   "cards.P075.title": "Hyoe Kuroda",
-  "cards.P075.feature": "[Resolution Phase][Case Closed][Sleep]: If the number of your Evidence is equal to or greater than the Case Level of your Case card, you win the game.\n[Assist][Sleep]: Move this card into the FILE area. If you have 7 or more cards in your FILE area, your Case enters the Resolution Phase."
-
+  "cards.P075.feature": "[Resolution Phase][Case Closed][Sleep]: If the number of your Evidence is equal to or greater than the Case Level of your Case card, you win the game.\n[Assist][Sleep]: Move this card into the FILE area. If you have 7 or more cards in your FILE area, your Case enters the Resolution Phase.",
+  "cards.0629.title": "Shinichi Kudo",
+  "cards.0629.feature": "[Bond: Ran Mouri][During Opponent's Turn] Give your card named \"Ran Mouri\" on the field +1000 AP. \n[Declare][Sleep] Reveal 1 card name \"Mouri Ran\" from your hand: Choose up to 1 character of level 7 or lower in your opponent's field and move it to the bottom of the owner's deck.",
+  "cards.0630.title": "Professor Agasa",
+  "cards.0630.feature": "[When Played]Choose up to two characters with the trait \"Detective Boys\" from your Remove Area and place them under this character. If you do, choose up to one character with a level equal to or lower than the combined level of the characters you placed under it, and remove it. \n[Declare][Once Per Turn][Sleep]: Choose up to one character in your field,then place up to two cards that were beneath under this character and place it on the chosen character.",
+  "cards.0631.title": "Conan Edogawa",
+  "cards.0631.feature": "[Resolution Phase] {Rush} \n[During Your Turn]: For each card stacked under this character, give this character AP+1000. \n[When Played]: Remove one card from the top of your deck. Choose up to two characters with the trait \"YAIBA\" or \"Detective Boys\" in your remove area and place them under this character.",
+  "cards.0632.title": "Ai Haibara",
+  "cards.0632.feature": "{Mislead 1} \n[Partner: Blue][When Played]: Choose one of the following and perform it: \n- Until the end of the turn, this character gains {Rush}.\n- Choose up to one of your opponent's Level 7 or lower characters on the field and move it to their hand.\n- Draw two cards."
 }
