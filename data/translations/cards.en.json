@@ -1636,4 +1636,12 @@
   "cards.0640.feature": "[When Played]: If there is a character with the trait \"YAIBA\" other than this character at the scene, draw 1 card.",
   "cards.0640.henso": "[Case: YAIBA][Files: 5]",
   "cards.0640.hirameki": "Choose up to 1 of your face-up evidence and turn it face down.",
+  "cards.0641.title": "Onimaru Takeshi",
+  "cards.0641.feature":"[When Played]: You may remove 1 card from your hand. If you do, choose up to one character with the trait \"YAIBA\" that is level 5 or lower from your remove area and play it. Give that character {Rush}, and 'At the end of the turn, if this character is on the scene, take this character as Evidence face up.' until end of turn.",
+  "cards.0641.henso": "[Case: YAIBA]",
+  "cards.0643.title": "Sasaki Kojiro",
+  "cards.0643.feature":"[During Your Turn] Green Characters with the trait \"YAIBA\" in your hand have Cut in AP+2000. \n\n[Declare][Sleep] Remove the top 3 cards from your deck: Choose up to one character from your opponent's Scene and this character makes Contact.", 
+  "cards.0644.title":"Ishikawa Goemon",
+  "cards.0644.feature": "{Rush}[Case] When Evidence is obtained through this Character's action [Case], draw a card.",
+  "cards.0644.hirameki": "Draw a card."
 }
