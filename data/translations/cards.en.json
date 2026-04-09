@@ -1644,4 +1644,17 @@
   "cards.0644.title":"Ishikawa Goemon",
   "cards.0644.feature": "{Rush}[Case] When Evidence is obtained through this Character's action [Case], draw a card.",
   "cards.0644.hirameki": "Draw a card."
+  "cards.0645.title": "Onimaru Takeshi",
+  "cards.0645.cut_in": "+2000 AP",
+  "cards.0647.title": "Black Demon"
+  "cards.0647.cut_in": "+2000 AP",
+  "cards.0648.title": "Kerosuke",
+  "cards:0648.feature": "[When Played]: If there is another character with the trait \"YAIBA\" on your field, this character will have {Rush} until end of turn or this character will have AP+1000 until end of turn.",
+  "cards.0648.hirameki": "You may choose up to 1 character on your field and remove it. If you do, bring this character into play.",
+  "cards.0649.title": "Koumori Otoko (Batman)",
+  "cards.0649.feature": "[Partner: Green]: {Rush}[Character] [During Opponent's Turn][When Removed From Scene] Get this card as Evidence, face up.",
+  "cards.0649.hirameki": "Choose up to one of your face-up Evidence and turn it face down.",
+  "cards.0650.title": "Mantis Man & Sea Cucumber Man & Starfish Man",
+  "cards.0650.cut_in": "+1000 AP",
+  "cards.0650.hirameki": "[Resolution Phase]: Play this character in Sleep state.",
 }
