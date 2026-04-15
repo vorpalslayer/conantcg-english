@@ -1686,7 +1686,5 @@
   "cards.659.title": "The Onimaru Unify the Country Project",
   "cards.659.feature": "[Resolution Phase] [Declare] [Once per Turn]: Turn three face-down Evidence face up: Choose up to 1 card with \"Trait: YAIBA\" and [Spark] that was turned face up by this effect and activate it.",
   "cards.659.henso": "[Case: YAIBA]",
-  "cards.660.title": "Hattori Heiji & Okita Souji",
-  "cards.660.feature": "[Partner: Green][Once Per Turn]: When a character with \"Trait: High School Student\" other than this character appears on your Scene, choose up to 1 character with AP 8000 or less and remove it. \n [Declare][Once per Turn]: Remove 1 card from your hand: Choose up to 1 character on your Scene and give it AP+1000 until end of turn, and \"This character can select an active character in the opponent's Scene and take an action towards it.",
-}
+  }
 
